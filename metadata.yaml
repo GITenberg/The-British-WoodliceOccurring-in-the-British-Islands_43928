@@ -15,6 +15,8 @@ creator:
     gutenberg_agent_id: '41815'
     url: http://www.gutenberg.org/2009/agents/41815
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43928#The-British-WoodliceOccurring-in-the-British-Islands
 gutenberg_issued: '2013-10-10'
 gutenberg_type: Text
 identifiers:
