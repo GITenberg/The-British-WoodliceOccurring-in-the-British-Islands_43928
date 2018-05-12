@@ -1,0 +1,32 @@
+_repo: The-British-WoodliceOccurring-in-the-British-Islands_43928
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43928-h/images/i_cover_tn.jpg
+creator:
+  authors:
+  - agent_name: Sillem, Charles
+    gutenberg_agent_id: '42481'
+    url: http://www.gutenberg.org/2009/agents/42481
+  - agent_name: Webb, Wilfred Mark
+    alias: Webb, W. M. (Wilfred Mark)
+    birthdate: 1868
+    deathdate: 1952
+    gutenberg_agent_id: '41815'
+    url: http://www.gutenberg.org/2009/agents/41815
+description: ''
+gutenberg_issued: '2013-10-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43928'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QL'
+- !lcsh 'Oniscidae'
+- !lcsh 'Crustacea -- Great Britain'
+title: "The British Woodlice\r\nBeing a Monograph of the Terrestrial Isopod Crustacea\
+  \ Occurring in the British Islands"
+url: http://www.gutenberg.org/ebooks/43928
